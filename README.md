@@ -1,3 +1,3 @@
 # MomaPythonTest
 
-on essaye de pousser depuis Google Collaboratory
+on essaye de pousser depuis Google Colabor
